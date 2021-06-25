@@ -25,7 +25,7 @@
     </li>
         <li><a href="#the-data">The data</a></li>
     <li>
-      <a href="#note-books">The notebooks</a>
+      <a href="#notebooks">The notebooks</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -60,8 +60,8 @@ In this repository you will find all the materials of the experimental final pro
 
 The first thing you can notice is that this folder is empty. Indeed the data of this project are propriety of the app Velada and can't be public. The data are indispensable to run the models contained in the notebook. The user interested can contact me at pablogranatiero@gmail.com
 
-<!-- NOTE BOOKS -->
-## The note books
+<!-- notebooks -->
+## Notebooks
 
 To get a local copy up and running follow these simple steps.
 
