@@ -27,7 +27,8 @@
     <li>
       <a href="#notebooks">The notebooks</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#Initializing_data">Prerequisites</a></li>
+        <li><a href="#Analysis">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -62,16 +63,15 @@ The first thing you can notice is that this folder is empty. Indeed the data of 
 
 <!-- notebooks -->
 ## Notebooks
+In the five notebooks inside the repository you will find the data analysis, the preprocess, all the experiments performed with the recommenders, the analysis and the codes of the time recommender.
 
-To get a local copy up and running follow these simple steps.
+### Initializing_data 
 
-### Prerequisites
+In the TFM_Analysis notebook there are all the code to preprocess the raw data coming from the two main sources: Google Analytics and Velada app itself.
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+### Analysis
+
+In the TFM_Initializing_data notebook there are all the code to preprocess the raw data coming from the two main sources: Google Analytics and Velada app itself.
 
 ### Installation
 
