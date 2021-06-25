@@ -44,12 +44,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-In this repository you will find all the materials of the experimental final project done in collaboration wit the owner of the restaurant app Velada. We will describe in detail how we built a recommender for the app, trying to give attention not just on the restaurant suggested, but also on the moment of the suggestion. We will then analyze the data, giving attention to all the aspect related to the needs of a recommender system. We will show all the models we tested, mainly using a Content Based model and a Collaborative Filter. In the last part we will describe a very first approach to the  the temporal behavior and the recurrent activities of users. 
+In this repository you will find all the materials of the experimental final project done in collaboration wit the owner of the restaurant app Velada. We will describe in detail how we built a recommender for the app, trying to give attention not just on the restaurant suggested, but also on the moment of the suggestion. We will then analyze the data, giving attention to all the aspect related to the needs of a recommender system. We will show all the models we tested, mainly using a Content Based model and a Collaborative Filter. In the last part we will describe a very first approach to the  the temporal behavior and the recurrent activities of users. You will find the following folders:
 
 
 ### Repository structure
 
-* [Blao](pornhub.com)
+* [TFM_Granatiero_Data](TFM_Granatiero_Data)
 * []()
 * []()
 
