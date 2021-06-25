@@ -31,8 +31,8 @@
         <li><a href="#Analysis">Analysis</a></li>
         <li><a href="#Collaborative">Collaborative</a></li>
         <li><a href="#Content-Based">Content Based</a></li>
-        <li><a href="Models-comparison">Models comparison</a></li>
-        <li><a href="Time-Evolution">Time Evolution</a></li>          
+        <li><a href="#Models-comparison">Models comparison</a></li>
+        <li><a href="#Time-Evolution">Time evolution</a></li>          
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -99,7 +99,8 @@ In TFM_Content_Based you will find described all the experiments we performed wi
 Here is described how we compare together the best set up for the Collaborative and for the Content Based, comparing them with two base models: a totally random one and another simply based on ranking (The Most Popular model).  
 
 ### Time Evolution
-In this notebook there is very first approach to the recurrency of restaurants and the time parameter in the recommender. 
+In this notebook there is a very first approach to the recurrency of restaurants and the time parameter in the recommender. 
+
 <!-- ROADMAP -->
 ## Roadmap
 
