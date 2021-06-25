@@ -23,7 +23,7 @@
         <li><a href="#built-with">Repository structure</a></li>
       </ul>
     </li>
-        <li><a href="#usage">The data</a></li>
+        <li><a href="#the data">The data</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
