@@ -31,6 +31,8 @@
         <li><a href="#Analysis">Analysis</a></li>
         <li><a href="#Collaborative">Collaborative</a></li>
         <li><a href="#Content-Based">Content Based</a></li>
+        <li><a href="Models-comparison">Models comparison</a></li>
+        <li><a href="Time-Evolution">Time Evolution</a></li>          
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -87,13 +89,17 @@ Here you will find described all the experiments we performed with the Collabora
 ### Content Based
 In TFM_Content_Based you will find described all the experiments we performed with the Content Based model. In particular we tested the model:
 
-1. Rising the minimum number of likes
+1. In the binary case
 
-2. Introducing a neighbor parameter
+2. Inspecting feature's importance
 
-3. Trying to add features
+3. Adding restaurants' rates thanks to a qualitative assignation rule
 
-4. Rising the volume of data 
+### Models comparison
+Here is described how we compare together the best set up for the Collaborative and for the Content Based, comparing them with two base models: a totally random one and another simply based on ranking (The Most Popular model).  
+
+### Time Evolution
+In this notebook there is very first approach to the recurrency of restaurants and the time parameter in the recommender. 
 <!-- ROADMAP -->
 ## Roadmap
 
