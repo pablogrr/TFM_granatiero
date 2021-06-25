@@ -72,7 +72,7 @@ In the five notebooks inside the repository you will find the data analysis, the
 
 In the TFM_Analysis notebook there are all the code to preprocess the raw data coming from the two main sources: Google Analytics and Velada app itself.
 
-### Analysis
+### Analysis (TFM_Granatiero_Notebooks/TFM_Granatiero_Utils)
 In this commented notebook are shown all the steps we did to retrieve all the information and plots useful in order to build the recommenders and to take important desicions.
 
 ### Collaborative
@@ -99,7 +99,7 @@ In TFM_Content_Based you will find described all the experiments we performed wi
 Here is described how we compare together the best set up for the Collaborative and for the Content Based, comparing them with two base models: a totally random one and another simply based on ranking (The Most Popular model).  
 
 ### Time Evolution
-In this notebook there is a very first approach to the recurrency of restaurants and the time parameter in the recommender. 
+In this notebook there is a very first approach to the recurrency of restaurants and the introduction of the time parameter inside the recommender. 
 
 <!-- ROADMAP -->
 ## Roadmap
