@@ -64,7 +64,7 @@ The first thing you can notice is that this folder is empty. Indeed the data of 
 ## Notebooks
 In the five notebooks inside the repository you will find the data analysis, the preprocess, all the experiments performed with the recommenders, the analysis and the codes of the time recommender.
 
-### Initializing_data 
+### Initializing data 
 
 In the <a href="TFM_Granatiero_Notebooks/TFM_Initializing_data.ipynb"> TFM_Analysis notebook </a> there are all the code to preprocess the raw data coming from the two main sources: Google Analytics and Velada app itself.
 
@@ -113,7 +113,7 @@ In this <a href="TFM_Granatiero_Notebooks/TFM_Granatiero_Utils/"> folder </a> yo
 <!-- Report -->
 ## The report
 
-Finally this is the report. A detailed descriptions of the whole project in six chapters:
+Finally this is the <a href="TFM_DS_GRANATIERO.pdf/">  report </a>. A detailed descriptions of the whole project in six chapters:
 
 1. Intro
 2. The App
