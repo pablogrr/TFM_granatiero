@@ -4,10 +4,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Recommender for restaurants</h3>
 
   <p align="center">
-    project_description
+    FUNDAMENTAL PRINCIPLES OF DATA SCIENCE MASTER’S THESIS - Pablo Granatiero 
     
 </p>
 
@@ -20,7 +20,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Repository structure</a></li>
       </ul>
     </li>
     <li>
@@ -44,16 +44,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+In this repository you will find all the materials of the experimental final project done in collaboration wit the owner of the restaurant app Velada. We will describe in detail how we built a recommender for the app, trying to give attention not just on the restaurant suggested, but also on the moment of the suggestion. We will then analyze the data, giving attention to all the aspect related to the needs of a recommender system. We will show all the models we tested, mainly using a Content Based model and a Collaborative Filter. In the last part we will describe a very first approach to the  the temporal behavior and the recurrent activities of users. 
 
 
-### Built With
+### Repository structure
 
-* []()
+* [Blao](palla)
 * []()
 * []()
 
