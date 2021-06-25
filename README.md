@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="logo_velada.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Recommender for restaurants</h3>
