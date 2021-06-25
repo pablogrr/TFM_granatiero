@@ -25,7 +25,7 @@
     </li>
         <li><a href="#the-data">The data</a></li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#note-books">The notebooks</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -55,11 +55,13 @@ In this repository you will find all the materials of the experimental final pro
 * [The programs](TFM_Granatiero_Notebooks/TFM_Granatiero_Utils)
 * [The report](TFM_DS_GRANATIERO.pdf)
 
+<!-- The Data -->
+## The data
 
+The first thing you can notice is that this folder is empty. Indeed the data of this project are propriety of the app Velada and can't be public. The data are indispensable to run the models contained in the notebook. The user interested can write me at pablogranatiero@gmail.com
 
-
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- NOTE BOOK -->
+## The note books
 
 To get a local copy up and running follow these simple steps.
 
@@ -81,17 +83,6 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-
-
-
-<!-- The Data -->
-## The data
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
 
 <!-- ROADMAP -->
 ## Roadmap
