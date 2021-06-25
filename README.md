@@ -27,9 +27,10 @@
     <li>
       <a href="#notebooks">The notebooks</a>
       <ul>
-        <li><a href="#Initializing_data">Prerequisites</a></li>
-        <li><a href="#Analysis">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Initializing_data">Initializing data</a></li>
+        <li><a href="#Analysis">Analysis</a></li>
+        <li><a href="#Collaborative">Collaborative</a></li>
+        <li><a href="#Content-Based">Content Based</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -70,20 +71,29 @@ In the five notebooks inside the repository you will find the data analysis, the
 In the TFM_Analysis notebook there are all the code to preprocess the raw data coming from the two main sources: Google Analytics and Velada app itself.
 
 ### Analysis
+In this commented notebook are shown all the steps we did to retrieve all the information and plots useful in order to build the recommenders and to take important desicions.
 
-In the TFM_Initializing_data notebook there are all the code to preprocess the raw data coming from the two main sources: Google Analytics and Velada app itself.
+### Collaborative
+Here you will find described all the experiments we performed with the Collaborative Filter model. In particular we tested the model:
 
-### Installation
+1. Rising the minimum number of likes
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
+2. Introducing a neighbor parameter
 
+3. Trying to add features
+
+4. Rising the volume of data 
+
+### Content Based
+In TFM_Content_Based you will find described all the experiments we performed with the Content Based model. In particular we tested the model:
+
+1. Rising the minimum number of likes
+
+2. Introducing a neighbor parameter
+
+3. Trying to add features
+
+4. Rising the volume of data 
 <!-- ROADMAP -->
 ## Roadmap
 
