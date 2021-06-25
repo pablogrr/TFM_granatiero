@@ -70,13 +70,13 @@ In the five notebooks inside the repository you will find the data analysis, the
 
 ### Initializing_data 
 
-In the <a href="TFM_Granatiero_Notebooks/TFM_Analysis.ipynb"> TFM_Analysis notebook </a> there are all the code to preprocess the raw data coming from the two main sources: Google Analytics and Velada app itself.
+In the <a href="TFM_Granatiero_Notebooks/TFM_Initializing_data.ipynb"> TFM_Analysis notebook </a> there are all the code to preprocess the raw data coming from the two main sources: Google Analytics and Velada app itself.
 
 ### Analysis
-In this commented notebook are shown all the steps we did to retrieve all the information and plots useful in order to build the recommenders and to take important desicions.
+In this <a href="TFM_Granatiero_Notebooks/TFM_Analysis.ipynb"> commented notebook </a> are shown all the steps we did to retrieve all the information and plots useful in order to build the recommenders and to take important desicions.
 
 ### Collaborative
-Here you will find described all the experiments we performed with the Collaborative Filter model. In particular we tested the model:
+<a href="TFM_Granatiero_Notebooks/TFM_Collaborative.ipynb"> Here </a> you will find described all the experiments we performed with the Collaborative Filter model. In particular we tested the model:
 
 1. Rising the minimum number of likes
 
@@ -87,7 +87,7 @@ Here you will find described all the experiments we performed with the Collabora
 4. Rising the volume of data 
 
 ### Content Based
-In TFM_Content_Based you will find described all the experiments we performed with the Content Based model. In particular we tested the model:
+In <a href="TFM_Granatiero_Notebooks/TFM_Content_Based.ipynb"> TFM_Content_Based </a> you will find described all the experiments we performed with the Content Based model. In particular we tested the model:
 
 1. In the binary case
 
@@ -96,10 +96,10 @@ In TFM_Content_Based you will find described all the experiments we performed wi
 3. Adding restaurants' rates thanks to a qualitative assignation rule
 
 ### Models comparison
-Here is described how we compare together the best set up for the Collaborative and for the Content Based, comparing them with two base models: a totally random one and another simply based on ranking (The Most Popular model).  
+<a href="TFM_Granatiero_Notebooks/TFM_all_models_comparison.ipynb"> Here </a> is described how we compare together the best set up for the Collaborative and for the Content Based, comparing them with two base models: a totally random one and another simply based on ranking (The Most Popular model).  
 
 ### Time Evolution
-In this notebook there is a very first approach to the recurrency of restaurants and the introduction of the time parameter inside the recommender. 
+In this <a href="TFM_Granatiero_Notebooks/TFM_Time_Evolution.ipynb"> notebook </a> there is a very first approach to the recurrency of restaurants and the introduction of the time parameter inside the recommender. 
 
 <!-- ROADMAP -->
 ## Roadmap
