@@ -66,7 +66,7 @@ In the five notebooks inside the repository you will find the data analysis, the
 
 ### Initializing data 
 
-In the <a href="TFM_Granatiero_Notebooks/TFM_Initializing_data.ipynb"> TFM_Analysis notebook </a> there are all the code to preprocess the raw data coming from the two main sources: Google Analytics and Velada app itself.
+In the <a href="TFM_Granatiero_Notebooks/TFM_Initializing_data.ipynb"> TFM_Initializing_data notebook </a> there are all the code to preprocess the raw data coming from the two main sources: Google Analytics and Velada app itself.
 
 ### Analysis
 In this <a href="TFM_Granatiero_Notebooks/TFM_Analysis.ipynb"> commented notebook </a> are shown all the steps we did to retrieve all the information and plots useful in order to build the recommenders and to take important desicions.
