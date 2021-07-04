@@ -27,7 +27,7 @@
     <li>
       <a href="#notebooks">The notebooks</a>
       <ul>
-        <li><a href="#Initializing_data">Initializing data</a></li>
+        <li><a href="#Initializing-data">Initializing data</a></li>
         <li><a href="#Analysis">Analysis</a></li>
         <li><a href="#Collaborative">Collaborative</a></li>
         <li><a href="#Content-Based">Content Based</a></li>
